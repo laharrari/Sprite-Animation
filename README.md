@@ -1,9 +1,9 @@
 # Comp-World-Animation
 Assignment 1 Animation for TCSS 491 Computational World.
 
-Instructor: Chris Marriott
-
 By: Harrison Lee
+
+Instructor: Chris Marriott
 
 Basic animation using Maplestory assets.
 
